@@ -1,6 +1,7 @@
 /*
-   1600x1200.S: EDID data set for standard 1600x1200 60 Hz monitor
+   1600x900.S: EDID data set for standard 1600x900 60 Hz monitor
 
+   Copied from 1600x1200.S in the Linux kernel source originally:
    Copyright (C) 2013 Carsten Emde <C.Emde@osadl.org>
 
    This program is free software; you can redistribute it and/or
